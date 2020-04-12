@@ -8,7 +8,7 @@ Importation d'une autre organisation
 
 Choix d'une organisation dans GitHub
 
-Puis suivi des étapes pré-établies pour ''repositories'' sélectionnée` TPMGL746090/WordPressCode
+Puis suivi des étapes pré-établies pour ''repositories'' sélectionnée /JPSUQAM/WordPressCode
 
 # ProjetIndividuelV2
 Dossier output contient les résultats de l'analyse effectuée acec GitStats.
