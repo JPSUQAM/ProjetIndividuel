@@ -12,4 +12,4 @@ Puis suivi des étapes pré-établies pour ''repositories'' sélectionnée` TPMG
 
 # ProjetIndividuelV2
 Dossier output contient les résultats de l'analyse effectuée acec GitStats.
-/GitStatsoutpput/index.html
+https://github.com/JPSUQAM/ProjetIndividuel/blob/master/GitStatsoutpput/index.html
