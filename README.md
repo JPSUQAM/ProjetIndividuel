@@ -12,4 +12,5 @@ Puis suivi des étapes pré-établies pour ''repositories'' sélectionnée /JPSU
 
 # ProjetIndividuelV2
 Dossier output contient les résultats de l'analyse effectuée acec GitStats.
+Projet personnel Livraison 2: https://github.com/JPSUQAM/ProjetIndividuel/blob/master/Projet%20Individuel%20MGL7460-90_JPSUDRE_V2.pdf
 
